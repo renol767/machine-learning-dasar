@@ -21,3 +21,7 @@ Saya ingin Menjadi Data Scientist
 ### Grid Search
 
 ![](Screenshot/GridSearch.png)
+
+### Room Classification
+
+![](Screenshot/RoomClassification.png)
