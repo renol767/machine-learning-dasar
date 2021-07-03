@@ -25,3 +25,8 @@ Saya ingin Menjadi Data Scientist
 ### Room Classification
 
 ![](Screenshot/RoomClassification.png)
+
+
+### RockScissorPaper Prediction
+
+![](Screenshot/RockScissorPaper.png)
